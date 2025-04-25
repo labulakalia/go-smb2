@@ -737,7 +737,7 @@ func (fs *Share) Lstat(name string) (os.FileInfo, error) {
 	}
 
 	fi, err := f.fileStat, nil
-	if e := f.close(); err == nil {
+	if e := f.close(); e == nil {
 		err = e
 	}
 	if err != nil {
