@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cloudsoda/go-smb2"
+	"github.com/medianexapp/go-smb2"
 	"github.com/stretchr/testify/require"
 )
 

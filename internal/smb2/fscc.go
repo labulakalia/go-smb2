@@ -3,7 +3,7 @@
 package smb2
 
 import (
-	"github.com/cloudsoda/go-smb2/internal/utf16le"
+	"github.com/medianexapp/go-smb2/internal/utf16le"
 )
 
 const (

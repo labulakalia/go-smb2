@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/cloudsoda/go-smb2/internal/erref"
+	"github.com/medianexapp/go-smb2/internal/erref"
 )
 
 // status errors - add more if necessary
